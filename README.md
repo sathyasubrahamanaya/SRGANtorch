@@ -15,6 +15,5 @@ ation
 
 ## Acknowledgements
 
-[Original SRGAN Repo](https://github.com/Lornatang/SRGAN-PyTorch)
 
 [Original SRGAN Paper](https://arxiv.org/abs/1609.04802v5)
